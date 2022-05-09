@@ -14,4 +14,8 @@ public class Cow {
 
 	private String name;
 	private String type;
+	
+	public void run() {
+		System.out.println("소가 달립니다.");
+	}
 }
